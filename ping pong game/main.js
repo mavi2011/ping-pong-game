@@ -24,8 +24,7 @@ var ball = {
 rightWristY = 0;
 rightWristX = 0;
 scoreRightWrist = 0;
-
-//Define a variable to hold the status of the game
+game_status = "";
 
  
 
